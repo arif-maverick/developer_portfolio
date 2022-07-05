@@ -20,6 +20,7 @@ h1 {
 .half-width {
     width: 50%;
     padding-left: 5%;
+
 }
 
 .half-width img {
@@ -50,4 +51,11 @@ h1 {
 .exp {
     padding-left: 5%;
     font-weight: 400;
+}
+
+.experience-item {
+    width: 40%;
+    margin left: 5%;
+    margin right: 5%;
+    padding: left box: shadow 10px 10px 40px gray;
 }
